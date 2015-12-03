@@ -1,0 +1,6 @@
+
+# All class files
+*.class
+
+# Possible OS files
+.DS_Store
